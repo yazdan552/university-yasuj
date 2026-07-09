@@ -33,7 +33,7 @@ university-yasuj/
 
 ## 👨‍💻 توسعه‌دهنده
 
-[یازدان](https://github.com/yazdan552)
+[یزدان](https://github.com/yazdan552)
 
 ---
 
